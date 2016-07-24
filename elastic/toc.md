@@ -1,21 +1,21 @@
 ## [开始使用](getting-start.md)
-* [X] [基本概念](gettting-start/basic-concepts.md)
-* [X] [安装](gettting-start/installation.md)
-* [X] [探索集群](gettting-start/exploring-your-cluster.md)
+* [X] [基本概念](getting-start/basic-concepts.md)
+* [X] [安装](getting-start/installation.md)
+* [X] [探索集群](getting-start/exploring-your-cluster.md)
   * [X] _[集群的健康状态](getting-start/cluster-health.md)_
   * [X] _[查看索引](getting-start/list-all-indices.md)_
   * [X] _[创建一个索引](getting-start/create-an-index.md)_
-* [ ] [修改数据](gettting-start/modifying-your-data.md)
-  * [ ] _[更新文档](gettting-start/updating-documents.md)_
-  * [ ] _[删除文档](gettting-start/deleting-documents.md)_
-  * [ ] _[批量处理](gettting-start/batch-process.md)_
-* [ ] [探索数据](gettting-start/exploring-your-data.md)
-  * [ ] _[查找API](gettting-start/the-search-api.md)_
-  * [ ] _[查询语言介绍](gettting-start/introducing-the-query-language.md)_
-  * [ ] _[查找操作](gettting-start/executing-searches.md)_
-  * [ ] _[过滤操作](gettting-start/executing-filters.md)_
-  * [ ] _[聚合操作](gettting-start/executing-aggregations.md)_
-* [ ] [总结](gettting-start/conclusion.md)
+* [ ] [修改数据](getting-start/modifying-your-data.md)
+  * [ ] _[更新文档](getting-start/updating-documents.md)_
+  * [ ] _[删除文档](getting-start/deleting-documents.md)_
+  * [ ] _[批量处理](getting-start/batch-process.md)_
+* [ ] [探索数据](getting-start/exploring-your-data.md)
+  * [ ] _[查找API](getting-start/the-search-api.md)_
+  * [ ] _[查询语言介绍](getting-start/introducing-the-query-language.md)_
+  * [ ] _[查找操作](getting-start/executing-searches.md)_
+  * [ ] _[过滤操作](getting-start/executing-filters.md)_
+  * [ ] _[聚合操作](getting-start/executing-aggregations.md)_
+* [ ] [总结](getting-start/conclusion.md)
 
 ## [配置ElasticSearch]()
 * [ ] [配置](configutation.md)

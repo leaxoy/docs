@@ -30,5 +30,5 @@ mwubuntu1    127.0.1.1            8           4 0.00 d         *      New Goblin
 
 可以看到一个名字为`New Goblin`的节点，它是这个集群中唯一的节点。
 
-### 上一节: [查看索引](list-all-indices.md)
+### 上一节: [探索集群](exploring-your-cluster.md)
 ### 下一节: [查看索引](list-all-indices.md)
