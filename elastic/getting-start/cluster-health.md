@@ -18,6 +18,7 @@ epoch      timestamp cluster       status node.total node.data shards pri relo i
 从上面回应的信息看，可以发现只有一个节点，因为没有任何数据，所以没有任何分片。默认情况下，elasticssearch 使用`unicast Network`来发现同一台机器上的其他节点。你可以在同一台机器上启动多个节点，他们会自动加入同一个集群中。在这种情况下，你会看到多个节点。
 
 使用下面的命令获取多个节点:
+
 `curl localhost:9200/_cat/nodes?v`
 
 结果是:

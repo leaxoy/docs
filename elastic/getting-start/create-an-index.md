@@ -3,6 +3,7 @@
 现在让我们来创建一个名为“customer”索引，然后重新查看所有的索引。
 
 `curl -XPUT localhost:9200/customer?pretty`
+
 `curl localhost:9200/_cat/indices?v`
 
 第一条命令使用curl的PUT动词创建了一个索引，同时在URL后面加上pretty参数来美化输出的JSON数据。结果应该像下面这样:
@@ -14,6 +15,7 @@ curl -XPUT 'localhost:9200/customer?pretty'
 }
 
 curl 'localhost:9200/_cat/indices?v'
+
 health index    pri rep docs.count docs.deleted store.size pri.store.size
 yellow customer   5   1          0            0       495b           495b
 ```
