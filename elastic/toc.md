@@ -1,4 +1,4 @@
-## [开始使用](getting-start.md)
+## [开始使用](getting-start/getting-start.md)
 * [X] [基本概念](getting-start/basic-concepts.md)
 * [X] [安装](getting-start/installation.md)
 * [X] [探索集群](getting-start/exploring-your-cluster.md)
