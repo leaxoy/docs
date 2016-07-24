@@ -2,9 +2,9 @@
 * [基本概念](basic-concepts.md)
 * [安装](installation.md)
 * [探索集群](exploring-your-cluster.md)
-  * _[集群健康](cluster-health.md)_
-  * _[查看索引](list-all-indices.md)_
-  * _[创建一个索引](create-an-index.md)_
+  * _[集群的健康状态](getting-start/cluster-health.md)_
+  * _[查看索引](getting-start/list-all-indices.md)_
+  * _[创建一个索引](getting-start/create-an-index.md)_
 * [修改数据](modifying-your-data.md)
   * _[更新文档](updating-documents.md)_
   * _[删除文档](deleting-documents.md)_
